@@ -39,17 +39,11 @@ The​ ​size​ ​of​ ​the​ ​neighborhood​ ​is​ ​adjustable,�
 
 Open the project in matlab and then run **`guidemo.m`** and then a gui mode window will open and then just follow the steps there.For further information check the screenshots.
 
-## References 
-
-Anuj Kumar Singh and Bhupendra Gupta “A novel approach for breast cancer detection and segmentation in mammography ”  Expert System With Applications 42(2015)990-1002.
-
-J. Dheeba, N.Albert Singh, S. Tamil Selvi “Computer-aided detection of breast cancer on mammograms: A swarm intelligence optimized wavelet neural network approach” Journal of Biomedical Informatics (2014).
-
 
 
 ## Screenshots
 
-#After running `guidemo.m`, follow these screenshots to segment a mammogram image
+### After running `guidemo.m` script, follow these screenshots to segment a mammogram image
 
 **STEP1: Now you have to browse the image of the mammograms and give it as an input**
 ![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/457045e96b1177a41e9f641c5319499b79234bf5/Screenshot%20(12).png)
@@ -62,3 +56,12 @@ J. Dheeba, N.Albert Singh, S. Tamil Selvi “Computer-aided detection of breast 
 
 **STEP4: So you can see one as the output in the right side which depicts that the cancer is benign**
 ![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/457045e96b1177a41e9f641c5319499b79234bf5/Screenshot%20(15).png)
+
+
+
+## References 
+
+Anuj Kumar Singh and Bhupendra Gupta “A novel approach for breast cancer detection and segmentation in mammography ”  Expert System With Applications 42(2015)990-1002.
+
+J. Dheeba, N.Albert Singh, S. Tamil Selvi “Computer-aided detection of breast cancer on mammograms: A swarm intelligence optimized wavelet neural network approach” Journal of Biomedical Informatics (2014).
+
