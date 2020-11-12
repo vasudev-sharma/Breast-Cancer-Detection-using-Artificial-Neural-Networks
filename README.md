@@ -59,9 +59,11 @@ Open the project in matlab and then run **`guidemo.m`** and then a gui mode wind
 
 
 
-## References 
+## Citation
 
-Anuj Kumar Singh and Bhupendra Gupta “A novel approach for breast cancer detection and segmentation in mammography ”  Expert System With Applications 42(2015)990-1002.
+If you use this work in your research, please cite it as follows:
 
-J. Dheeba, N.Albert Singh, S. Tamil Selvi “Computer-aided detection of breast cancer on mammograms: A swarm intelligence optimized wavelet neural network approach” Journal of Biomedical Informatics (2014).
+Sharma, V., Rajasekaran, R. K. & Badhrinarayanan, S. (2019). Visualization of Data Mining Techniques for the Prediction of Breast Cancer with High Accuracy Rates. Journal of Computer Science, 15(1), 118-130. https://doi.org/10.3844/jcssp.2019.118.130
+
+ Copyright: © 2019 Vasudev Sharma, Raj Kumar Rajasekaran and Shreya Badhrinarayanan. 
 
