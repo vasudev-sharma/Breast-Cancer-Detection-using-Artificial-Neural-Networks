@@ -46,16 +46,16 @@ Open the project in matlab and then run **`guidemo.m`** and then a gui mode wind
 ### After running `guidemo.m` script, follow these screenshots to segment a mammogram image
 
 **STEP1: Now you have to browse the image of the mammograms and give it as an input**
-![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/457045e96b1177a41e9f641c5319499b79234bf5/Screenshot%20(12).png)
+![Preview](https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_1.png)
 
 **STEP2: In this step adaptive mean filtering is done**
-![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/457045e96b1177a41e9f641c5319499b79234bf5/Screenshot%20(13).png)
+![Preview](https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_2.png)
 
 **STEP3: GMM Segmentation is done**
-![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/457045e96b1177a41e9f641c5319499b79234bf5/Screenshot%20(14).png)
+![Preview](https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_3.png)
 
 **STEP4: So you can see one as the output in the right side which depicts that the cancer is benign**
-![Preview](https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/static_files/master/step_4.png?raw=True)
+![Preview](https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_4.png)
 
 
 
