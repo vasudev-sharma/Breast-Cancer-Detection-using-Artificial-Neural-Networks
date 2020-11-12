@@ -49,6 +49,7 @@ J. Dheeba, N.Albert Singh, S. Tamil Selvi “Computer-aided detection of breast 
 
 ## Screenshots
 
+
 **Now you have to browse the image of the mammograms and give it as an input**
 ![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/457045e96b1177a41e9f641c5319499b79234bf5/Screenshot%20(12).png)
 
