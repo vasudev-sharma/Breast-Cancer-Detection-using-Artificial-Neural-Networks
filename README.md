@@ -49,13 +49,13 @@ Open the project in matlab and then run **`guidemo.m`** and then a gui mode wind
 <br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_1.png" hieght="900" align="center" width ="900">
 
 - **STEP 2: In this step adaptive mean filtering is done**
-<br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_1.png" hieght="900" align="center" width ="900">
+<br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_2.png" hieght="900" align="center" width ="900">
 
 - **STEP 3: GMM Segmentation is done**
-<br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_1.png" hieght="900" align="center" width ="900">
+<br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_3.png" hieght="900" align="center" width ="900">
 
 - **STEP 4: So you can see one as the output in the right side which depicts that the cancer is benign**
-<br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_1.png" hieght="900" align="center" width ="900">
+<br><img src = "https://github.com/vs74/Breast-Cancer-Detection-using-Artificial-Neural-Networks/blob/master/static_files/step_4.png" hieght="900" align="center" width ="900">
 
 
 ## Citation
