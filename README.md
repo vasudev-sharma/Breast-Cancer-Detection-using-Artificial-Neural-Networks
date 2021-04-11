@@ -13,7 +13,7 @@ Masses can be many things, including cysts (fluid-filled sacs) and non-cancerous
 
 The difficulty in cancer detection is that the abnormalities from normal breast tissues are hard to read because of their subtle appearance and ambiguous margins.Automated tools which can help radiologist in early detection of breast cancer.
 
-Further we have classified the cancer into three categories after its detection- Normal,Malignant,Benign.
+Further we have classified the cancer into three categories after its detection- **Normal, Malignant, Benign**.
 
 ## Methodology
 
