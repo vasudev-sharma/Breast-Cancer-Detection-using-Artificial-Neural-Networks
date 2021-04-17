@@ -31,7 +31,7 @@ The​ ​size​ ​of​ ​the​ ​neighborhood​ ​is​ ​adjustable,�
 
 ![Difference between Malignant and Benign tissues in Breast](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/fca5059fa43d76a5cce9a39968f6b0d5e1051cfd/cancer2.PNG)
 
-## Block Diagram of the Project
+## Block Diagram of the Project.
 
 ![Preview](https://raw.githubusercontent.com/st186/Breast-cancer-detection-using-Neural-networks/7cccc44b3ce4a51219e97df4f18da6147367996a/cancer.PNG)
 
